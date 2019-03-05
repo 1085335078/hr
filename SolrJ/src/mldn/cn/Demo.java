@@ -6,6 +6,6 @@ public class Demo {
 		
 	}
 	public void m(){
-		
+		System.out.println("我是demo   。。。");
 	}
 }
