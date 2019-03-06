@@ -6,9 +6,7 @@ public class Demo {
 		
 	}
 	public void m(){
-		System.out.println("我是demo   。。。");
+		System.out.println("我是demo   branch-1分支");
 	}
-	public void m4(){
-		System.out.println("我是demo   。。。");
-	}
+	
 }
