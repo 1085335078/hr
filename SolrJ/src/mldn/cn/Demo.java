@@ -9,5 +9,8 @@ public class Demo {
 		System.out.println("我是demo   branch-1分支");
 		System.out.println("增加一个方法");
 	}
+	void m5(){
+		
+	}
 	
 }
