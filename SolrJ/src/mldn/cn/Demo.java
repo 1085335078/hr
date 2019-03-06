@@ -12,5 +12,7 @@ public class Demo {
 	void m5(){
 		
 	}
+	void m4(){
+	}
 	
 }
